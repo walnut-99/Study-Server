@@ -11,7 +11,10 @@ Better-Auto-XXQG： [https://github.com/sec-an/Better-Auto-XXQG](https://github.
 
 LazyStudy： [https://github.com/lolisaikou/LazyStudy ](https://github.com/lolisaikou/LazyStudy )
 
-题库：[https://github.com/Pandaver/XXQG_TiKu_Transform](https://github.com/Pandaver/XXQG_TiKu_Transform)
+双人四人题库：[https://github.com/Pandaver/XXQG_TiKu_Transform](https://github.com/Pandaver/XXQG_TiKu_Transform)
+
+挑战每日每周专项题库：[https://github.com/mondayfirst/XXQG_TiKu](https://github.com/mondayfirst/XXQG_TiKu) (最终使用为经过自行转化的sqlite数据库文件)
+
 
 
 所用工具：
