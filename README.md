@@ -14,3 +14,5 @@ LazyStudy： [https://github.com/lolisaikou/LazyStudy ](https://github.com/lolis
 
 #### 所用工具：
 AutoX.js：[https://github.com/kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX)
+
+### 测试机型:小米10pro MIUI13
