@@ -1,5 +1,5 @@
 # Study-Server
-## 仅作更新服务器用
+## 仅作更新服务器用 最新版前往releases中下载
 ### 集百家之所长
 #### 参考脚本：
 AI强国： [https://github.com/zhuxuedefeng/AiQiangGUO](https://github.com/zhuxuedefeng/AiQiangGUO)
