@@ -1,4 +1,5 @@
 # Study-Server
+# 仅供本人学习Auto.js使用！切勿用于违法用途，否则开发者不承担任何责任。
 ## 仅作更新服务器用 最新版前往releases中下载
 ### 测试机型：小米10pro MIUI 13
 ### 更新时间：2022年9月10日
@@ -16,5 +17,7 @@ LazyStudy： [https://github.com/lolisaikou/LazyStudy ](https://github.com/lolis
 
 #### 所用工具：
 AutoX.js：[https://github.com/kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX)
+
+
 
 
