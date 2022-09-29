@@ -2,7 +2,7 @@
 # 仅供本人学习Auto.js使用！切勿用于违法用途，否则开发者不承担任何责任。
 ## 仅作更新服务器用 最新版前往releases中下载
 ### 测试机型：小米10pro MIUI 13
-### 更新时间：2022年9月10日
+### 更新时间：2022年9月29日
 ### 集百家之所长
 #### 参考脚本：
 AI强国： [https://github.com/zhuxuedefeng/AiQiangGUO](https://github.com/zhuxuedefeng/AiQiangGUO)
